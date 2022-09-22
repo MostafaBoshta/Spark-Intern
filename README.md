@@ -12,4 +12,7 @@
 
 #### - The best fit line between test samples.
 
+![image](https://user-images.githubusercontent.com/32219409/191804440-a2c73778-4562-499b-8db3-f3676fc9df11.png)
+
+#### - Model Summary.
 
